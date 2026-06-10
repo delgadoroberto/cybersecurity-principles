@@ -43,15 +43,32 @@ This repository was created to provide a practical and vendor-neutral reference 
 
 ---
 
+## Core Principles
+
+The following principles serve as the foundation for understanding and evaluating cybersecurity controls:
+
+- Confidentiality
+- Integrity
+- Availability
+- Risk Management
+- Defense in Depth
+- Least Privilege
+- Zero Trust
+- Security Monitoring
+- Resilience
+- Continuous Improvement
+
+---
+
 ## Learning Path
 
 ### Fundamental Principles
 
-1. CIA Triad
-2. Risk Management
-3. Defense in Depth
-4. Least Privilege
-5. Zero Trust
+1. [CIA Triad](docs/01-cia-triad.md)
+2. [Risk Management](docs/02-risk-management.md)
+3. [Defense in Depth](docs/03-defense-in-depth.md)
+4. [Least Privilege](docs/04-least-privilege.md)
+5. [Zero Trust](docs/05-zero-trust.md)
 
 ### Core Security Domains
 
@@ -76,6 +93,28 @@ This repository was created to provide a practical and vendor-neutral reference 
 
 16. Security Frameworks
 17. Security Review Checklist
+
+---
+
+## How to Use This Repository
+
+This repository can be used in different ways depending on your role and experience level.
+
+### Beginners
+
+Follow the Learning Path sequentially to build a strong cybersecurity foundation and understand the principles behind common security controls.
+
+### Security Professionals
+
+Use the repository as a reference when evaluating systems, assessing risks, implementing controls, or conducting security reviews.
+
+### Security Architects and Engineers
+
+Leverage the concepts, review questions, and checklists to identify security gaps, improve designs, and strengthen security posture across different environments.
+
+### Students and Career Changers
+
+Use the repository to understand the core concepts that apply across cybersecurity domains, technologies, and security frameworks.
 
 ---
 
