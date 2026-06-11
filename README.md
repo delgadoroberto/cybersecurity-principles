@@ -72,27 +72,27 @@ The following principles serve as the foundation for understanding and evaluatin
 
 ### Core Security Domains
 
-6. Identity and Access Management
-7. Security Hardening
-8. Vulnerability Management
-9. Logging and Monitoring
-10. Incident Response
+1. [Identity and Access Management](docs/06-identity-and-access-management.md)
+2. [Security Hardening](docs/07-security-hardening.md)
+3. [Vulnerability Management](docs/08-vulnerability-management.md)
+4. [Logging and Monitoring](docs/09-logging-monitoring.md)
+5. [Incident Response](docs/10-incident-response.md)
 
 ### Resilience and Recovery
 
-11. Backup and Recovery
-12. Business Continuity and Disaster Recovery
+1. [Backup and Recovery](docs/11-backup-and-recovery.md)
+2. [Business Continuity and Disaster Recovery](docs/12-business-continuity.md)
 
 ### Security Engineering
 
-13. Security Architecture
-14. Cloud Security Principles
-15. DevSecOps Principles
+1. [Security Architecture](docs/13-security-architecture.md)
+2. [Cloud Security Principles](docs/14-cloud-security-principles.md)
+3. [DevSecOps Principles](docs/15-devsecops-principles.md)
 
 ### Security Frameworks and Assessment
 
-16. Security Frameworks
-17. Security Review Checklist
+1. [Security Frameworks](docs/16-security-frameworks.md)
+2. [Security Review Checklist](docs/17-security-review-checklist.md)
 
 ---
 
@@ -127,6 +127,7 @@ cybersecurity-principles/
 ├── LICENSE
 ├── CONTRIBUTING.md
 ├── .gitignore
+├── .markdownlint.json
 │
 ├── docs/
 │   ├── 01-cia-triad.md
