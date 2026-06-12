@@ -64,35 +64,45 @@ The following principles serve as the foundation for understanding and evaluatin
 
 ### Fundamental Principles
 
-1. [CIA Triad](docs/01-cia-triad.md)
-2. [Risk Management](docs/02-risk-management.md)
-3. [Defense in Depth](docs/03-defense-in-depth.md)
-4. [Least Privilege](docs/04-least-privilege.md)
-5. [Zero Trust](docs/05-zero-trust.md)
+| # | Topic |
+|---|--------|
+| 01 | [CIA Triad](docs/01-cia-triad.md) |
+| 02 | [Risk Management](docs/02-risk-management.md) |
+| 03 | [Defense in Depth](docs/03-defense-in-depth.md) |
+| 04 | [Least Privilege](docs/04-least-privilege.md) |
+| 05 | [Zero Trust](docs/05-zero-trust.md) |
 
 ### Core Security Domains
 
-1. [Identity and Access Management](docs/06-identity-and-access-management.md)
-2. [Security Hardening](docs/07-security-hardening.md)
-3. [Vulnerability Management](docs/08-vulnerability-management.md)
-4. [Logging and Monitoring](docs/09-logging-monitoring.md)
-5. [Incident Response](docs/10-incident-response.md)
+| # | Topic |
+|---|--------|
+| 06 | [Identity and Access Management](docs/06-identity-and-access-management.md) |
+| 07 | [Security Hardening](docs/07-security-hardening.md) |
+| 08 | [Vulnerability Management](docs/08-vulnerability-management.md) |
+| 09 | [Logging and Monitoring](docs/09-logging-monitoring.md) |
+| 10 | [Incident Response](docs/10-incident-response.md) |
 
 ### Resilience and Recovery
 
-1. [Backup and Recovery](docs/11-backup-and-recovery.md)
-2. [Business Continuity and Disaster Recovery](docs/12-business-continuity.md)
+| # | Topic |
+|---|--------|
+| 11 | [Backup and Recovery](docs/11-backup-and-recovery.md) |
+| 12 | [Business Continuity and Disaster Recovery](docs/12-business-continuity.md) |
 
 ### Security Engineering
 
-1. [Security Architecture](docs/13-security-architecture.md)
-2. [Cloud Security Principles](docs/14-cloud-security-principles.md)
-3. [DevSecOps Principles](docs/15-devsecops-principles.md)
+| # | Topic |
+|---|--------|
+| 13 | [Security Architecture](docs/13-security-architecture.md) |
+| 14 | [Cloud Security Principles](docs/14-cloud-security-principles.md) |
+| 15 | [DevSecOps Principles](docs/15-devsecops-principles.md) |
 
 ### Security Frameworks and Assessment
 
-1. [Security Frameworks](docs/16-security-frameworks.md)
-2. [Security Review Checklist](docs/17-security-review-checklist.md)
+| # | Topic |
+|---|--------|
+| 16 | [Security Frameworks](docs/16-security-frameworks.md) |
+| 17 | [Security Review Checklist](docs/17-security-review-checklist.md) |
 
 ---
 
