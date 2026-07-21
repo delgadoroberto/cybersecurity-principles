@@ -276,7 +276,7 @@ Please review the CONTRIBUTING.md document before submitting changes.
 
 Cybersecurity professional focused on cloud and infrastructure security, DevSecOps, vulnerability management, and security automation.
 
-This repository is part of my personal cybersecurity portfolio, where I build hands-on projects that demonstrate secure engineering practices across cloud security, Infrastructure as Code, container security, CI/CD security, and security automation.
+This repository is part of my technical portfolio, featuring hands-on projects that demonstrate secure engineering practices across cloud environments, Infrastructure as Code, container security, CI/CD, and security automation.
 
 > **Practical cybersecurity. Secure automation. Continuous learning.**
 
