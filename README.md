@@ -282,8 +282,6 @@ This repository is part of my technical portfolio, featuring hands-on projects t
 
 ---
 
-## License
+## 📄 License
 
-This project is licensed under the MIT License.
-
-See the LICENSE file for details.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
